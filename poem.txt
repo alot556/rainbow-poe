@@ -3,6 +3,7 @@ the rainbow
 purpule
 pink
 black
+green
 yellow
 blue
 this are the color of the rainbow
