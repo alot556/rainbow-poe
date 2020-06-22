@@ -5,6 +5,7 @@ pink
 black
 green
 red
+brown
 fruit
 yellow
 blue
